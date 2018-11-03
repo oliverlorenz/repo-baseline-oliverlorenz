@@ -1,0 +1,21 @@
+{
+  "name": "repo-baseline-oliverlorenz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repo-baseline": [
+      { 
+        "name": "repo-baseline-contrib-file-available",
+        "options": {
+          "files": [
+            "README.md"
+          ]
+        }
+      }
+  ],
+  "author": "",
+  "license": "ISC"
+}
