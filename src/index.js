@@ -5,8 +5,8 @@ function getRules() {
     return packageJson['repo-baseline']
 }
 
-function validate(options, callback) {
-    return fileAvailable(fileAvailable, options)
+function run(repoPath, options, callback) {
+    return fileAvailable(repoPath, fileAvailable, options)
 }
 
 module.exports = {
