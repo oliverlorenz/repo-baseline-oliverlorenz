@@ -11,5 +11,5 @@ function run(repoPath, options, callback) {
 
 module.exports = {
     getRules,
-    validate
+    run
 }
