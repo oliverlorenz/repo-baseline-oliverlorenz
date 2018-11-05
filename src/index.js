@@ -6,7 +6,7 @@ function getRules() {
 }
 
 function run(repoPath, options, callback) {
-    return fileAvailable(repoPath, fileAvailable, options)
+    return fileAvailable(repoPath, options, options)
 }
 
 module.exports = {
