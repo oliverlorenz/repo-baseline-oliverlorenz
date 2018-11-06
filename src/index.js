@@ -1,5 +1,6 @@
 const packageJson = require('../package.json');
-const ruleset = require('repo-baseline-ruleset');
+const RuleSet = require('repo-baseline-ruleset');
+
 /*
 const fileAvailable = require('repo-baseline-file-available');
 
@@ -30,4 +31,6 @@ module.exports = {
 }
 */
 
-module.exports = ruleset(packageJson);
+module.exports = (pluginManager, repoPath) => {
+    return RuleSet(pluginManager, repoPath, packageJson['repo-baseline']);
+}
