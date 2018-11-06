@@ -19,9 +19,6 @@
   ],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "repo-baseline-file-available": "^1.0.6"
-  },
   "peerDependencies": {
     "repo-baseline": "1.0.0"
   }
