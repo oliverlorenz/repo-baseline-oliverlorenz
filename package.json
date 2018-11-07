@@ -1,6 +1,6 @@
 {
   "name": "repo-baseline-oliverlorenz",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -16,7 +16,9 @@
         ]
       }
     },
-    { "name": "repo-baseline-codeclimate-badges" }
+    {
+      "name": "repo-baseline-codeclimate-badges"
+    }
   ],
   "author": "",
   "license": "ISC",
