@@ -32,6 +32,10 @@
           {
             "path": "README.md",
             "string": "## Motivation"
+          },
+          {
+            "path": "README.md",
+            "string": "## Usage"
           }
         ]
       }
