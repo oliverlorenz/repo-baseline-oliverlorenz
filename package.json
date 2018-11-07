@@ -16,9 +16,8 @@
         ]
       }
     },
-    {
-      "name": "repo-baseline-codeclimate-badges"
-    }
+    { "name": "repo-baseline-codeclimate-badges" },
+    { "name": "repo-baseline-travis" }
   ],
   "author": "",
   "license": "ISC",
