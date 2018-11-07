@@ -39,6 +39,9 @@
           }
         ]
       }
+    },
+    {
+      "name": "repo-baseline-semantic-release"
     }
   ],
   "author": "",
