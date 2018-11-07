@@ -15,7 +15,8 @@
           ".gitignore"
         ]
       }
-    }
+    },
+    { "name": "repo-baseline-codeclimate-badges" }
   ],
   "author": "",
   "license": "ISC",
