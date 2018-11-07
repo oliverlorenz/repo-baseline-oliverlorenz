@@ -24,6 +24,17 @@
     },
     {
       "name": "repo-baseline-david-dm"
+    },
+    {
+      "name": "repo-baseline-file-contains",
+      "options": {
+        "files": [
+          {
+            "path": "README.md",
+            "string": "## Motivation"
+          }
+        ]
+      }
     }
   ],
   "author": "",
