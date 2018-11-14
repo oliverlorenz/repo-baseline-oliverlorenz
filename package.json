@@ -42,9 +42,6 @@
     },
     {
       "name": "repo-baseline-semantic-release"
-    },
-    {
-      "name": "repo-baseline-git-flow"
     }
   ],
   "author": "",
